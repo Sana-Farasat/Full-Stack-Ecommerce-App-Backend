@@ -1,4 +1,4 @@
-    alembic,
+    alembic  # alembic is a pip package name so trailing comma ',' is not acceptable during deployment
     fastapi[standard],
     psycopg[binary]",
     pwdlib[argon2,email],
