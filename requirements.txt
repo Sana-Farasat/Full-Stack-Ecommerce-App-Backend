@@ -1,9 +1,2 @@
-    alembic
+alembic
     
-    fastapi[standard],
-    psycopg[binary]",
-    pwdlib[argon2,email],
-    pyjwt,
-    python-dotenv,
-    python-jose[cryptography],
-    sqlmodel,
