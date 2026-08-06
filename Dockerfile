@@ -7,7 +7,8 @@ USER user
 
 ENV PATH="/home/user/.local/bin:$PATH"
 
-ENV PORT=7860
+# ENV PORT=7860
+ENV PORT=8000
 
 WORKDIR /app
 
